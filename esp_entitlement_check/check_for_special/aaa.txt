@@ -1,0 +1,47 @@
+/martelementoriginservice/elementOrigin		->		eau.validateMetamodelFunctionViaModel(userId,"Metamodel.View",
+/martelementoriginservice/remoteelementOrigin		->		eau.validateMetamodelFunctionViaModel(userId,"Metamodel.View",
+/martelementoriginservice/elementConsumption		->		eau.validateMetamodelFunctionViaModel(smUserId,"Metamodel.View",
+/martelementoriginservice/executeQuery		->		eau.validateEmptyFunction(smUserId, "DatamartElementOriginService.executeQuery");
+/martelementoriginservice/parentMartPath		->		eau.validateMetamodelFunctionViaModel(smUserId,"Metamodel.View",
+/invoker/admin		->		eau.validateEmptyFunction(userId, "GeneralESPServiceInvoker.admin");
+/httpServices/getRKSESPXREFData		->		eau.validateEmptyFunction(smUserId, "GenericHttpService.getRKSESPXREFData");
+/ivservice/getEleLookup		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getQuickSearchEleLookup		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getAccount		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getPreferredBenchmarks		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/genericLookupService		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getReturnType		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getPerformanceSchemeCode		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getPortfolioWithCondition		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getEntityDriverData		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getAccountGroupReferenceData		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getCustomFundDriverData		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/FundListService		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/FundTreeService		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/FundGroupService		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/ManageFundGroupService		->		eau.validateAdminFunction(smUserId, "Metamodel.PublishIV");
+/ivservice/deleteCoreView		->		eau.validateAdminFunction(smUserId, "Metamodel.PublishIV");
+/ivservice/exportCoreViews		->		eau.validateAdminFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/createCoreView		->		eau.validateAdminFunction(smUserId, "Metamodel.PublishIV");
+/ivservice/createCoreViewManually		->		eau.validateAdminFunction(smUserId, "Metamodel.PublishIV");
+/ivservice/createCoreViewManuallyJson		->		eau.validateAdminFunction(smUserId, "Metamodel.PublishIV");
+/ivservice/getIVMyssDefintion		->		eau.validateAdminFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getIVMyssDefintionJson		->		eau.validateAdminFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/publicIVInfo		->		eau.validateAdminFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/publicIVInfoByViewName		->		eau.validateAdminFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/GenericDataService		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/viewSearchOptions		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/viewSearch		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/FilterService		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/MetaDataService		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/findMart		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/findIV		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getClassifications		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getTags		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getEspAdminFunctions		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/cascadeParameterService		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/listViews		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getAllViews		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/viewProperties		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/ivservice/getContentArea		->		eau.validateEmptyFunction(smUserId, "Dashboard.InteractiveViews");
+/monitorservice/manualRefresh		->		eau.validateMetamodelFunctionViaModel(userId, 
